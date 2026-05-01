@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yuwen Pang / Personal Web-page"
 title_separator          : "-"
-name                     : &name "Yuwen Pang"
-description              : &description "Yuwen Pang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yuwen Pang (She/Her)"
+description              : &description "PhD | Remote Sensing | Vegetation Dynamics | Ecological Modeling"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://scbi-yuwenpang.github.io/scbi-yuwenpang/scbi-yuwenpang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,16 +21,16 @@ repository               : "scbi-yuwenpang/scbi-yuwenpang.github.io" #<yourusern
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
+# Author Sidebar
 author:
-  # Biographic information
   avatar           : "Yuwen_Pang_profile_photo.jpg"
-  name             : "Know about me"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Yuwen Pang"
+  pronouns         : "She/Her"
+  bio              : "PhD in Environmental Sciences specializing in remote sensing and machine learning for vegetation dynamics and ecosystem monitoring."
   location         : "Front Royal, VA, USA"
-  employer         : "Smithsonian’s National Zoo & Conservation Biology Institute"
-  uri              : # URL
-  email            : "pangy@si.edu" 
+  employer         : "Smithsonian National Zoo & Conservation Biology Institute"
+  email            : "pangy@si.edu"
 
   # Academic websites
   academia         : # URL
@@ -46,50 +46,33 @@ author:
   scopus           : # URL
   zotero           : # URL
 
+  # Academic Profiles
+  googlescholar    : "https://scholar.google.com/citations?user=oXq2aHUAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-0478-1225"
+  researchgate     : "https://www.researchgate.net/profile/Pang-Yuwen"
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # Code / Research
+  github           : "scbi-yuwenpang"
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  Substack         : "Former Interns (Subscribe US!)"
+  instagram        : "tzpangyuwen"
+  linkedin         : "Yuwen Pang"
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
+
+# Site Settings
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -130,10 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+og_description           : "Academic homepage of Yuwen Pang, focusing on remote sensing, vegetation dynamics, and ecological modeling."
 
 
 # Social Sharing
