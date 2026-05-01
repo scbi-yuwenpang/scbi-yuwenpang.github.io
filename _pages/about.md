@@ -50,7 +50,7 @@ My earlier research focused on peatland vegetation in boreal and subarctic regio
 - PANG, Y., et al. 2020. Identifying spectral features of characteristics of Sphagnum to assess the remote sensing potential of peatlands: A case study in China. Mires and Peat, 26, 25.
 - PANG, Y., et al. 2019. Vegetation index change of Sphagnum palustre bog in Dajiu Lake of Mt. Shennongjia based on MODIS data. Acta Ecologica Sinica, 39, 4872-4882.
 
-👉 See full list on the My [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=oXq2aHUAAAAJ&hl=en).
+👉 See full list on the My [Google Scholar](https://scholar.google.com/citations?user=oXq2aHUAAAAJ&hl=en).
 
 ---
 
