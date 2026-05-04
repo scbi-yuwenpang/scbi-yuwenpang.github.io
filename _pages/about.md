@@ -41,7 +41,6 @@ My earlier research focused on peatland vegetation in boreal and subarctic regio
 
 ## Selected Publications
 
-*(You can later automate this section, but for now list 2–4 key papers manually)*
 - PANG, Y. 2024. Using remote sensing to detect spatial patterns and phonology of peatland vegetation. Doctoral Dissertation, University of Helsinki, Helsinki, Finland
 - PANG, Y., et al. 2024. Comparing multispectral and hyperspectral UAV data for detecting peatland vegetation patterns. International Journal of Applied Earth Observation and Geoinformation, 132, 104043.
 - PANG, Y., et al. 2023. Upscaling field-measured seasonal ground vegetation patterns with Sentinel-2 images in boreal ecosystems. International Journal of Remote Sensing, 44, 4239-4261.
